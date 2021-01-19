@@ -7,18 +7,14 @@ const FooterPage = () => {
             <MDBContainer fluid className="text-center text-md-left">
                 <MDBRow>
                     <MDBCol md="4">
-                        <h5 className="title">Mr Full Name</h5>
-                        <p>
-                            Intro about your skills goes here. Keep the list lean and only show your primary skillset.
-                            You can always provide a link to your Linkedin or Github profile so people can get more info
-                            there.
-                        </p>
+                        <h5 className="title">Josh Lerman</h5>
+                  
                     </MDBCol>
                     <MDBCol md="4">
                         <h5 className="title">Contacts</h5>
                         <ul>
                             <li className="list-unstyled">
-                                <a href="/resume.pdf">Resume</a>
+                                <a href="/resume.pdf">Josh Lerman</a>
                             </li>
                         </ul>
                     </MDBCol>
@@ -28,13 +24,12 @@ const FooterPage = () => {
                                 <h2 className="heading sr-only">Basic Information</h2>
                                 <div className="content">
                                     <ul className="list-unstyled">
-                                        <li><i className="fas fa-map-marker-alt"></i><span className="sr-only">Location:</span>San
-                                            Francisco, US
+                                        <li><i className="fas fa-map-marker-alt"></i><span className="sr-only">Location:</span>New York, US
                                         </li>
                                         <li><i className="fas fa-envelope"></i><span className="sr-only">Email:</span><a
-                                            href="#">sam@website.com</a></li>
+                                            href="#">https://github.com/jdl212</a></li>
                                         <li><i className="fas fa-link"></i><span className="sr-only">Website:</span><a
-                                            href="#">https://www.github.com/sam_user</a></li>
+                                            href="https://github.com/jdl212">https://github.com/jdl212</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -44,7 +39,7 @@ const FooterPage = () => {
             </MDBContainer>
             <div className="footer-copyright text-center py-3">
                 <MDBContainer fluid>
-                    &copy; {new Date().getFullYear()} Copyright: <a href="https://github.com"> Mr Full Name </a>
+                    &copy; {new Date().getFullYear()} Copyright: <a href="https://github.com">Josh Lerman </a>
                 </MDBContainer>
             </div>
         </MDBFooter>
