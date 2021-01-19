@@ -18,28 +18,28 @@ export default
             id: 2,
             title: 'Eat-Da-Burger!',
             description: 'Eat-Da-Burger!',
-            imageSrc: "/img/projects/project-1.png",
+            imageSrc: "/img/projects/project-2.png",
             url: 'https://github.com/jdl212/expressHandleBars'
         },
         {
             id: 3,
             title: 'Employee Management',
             description: 'Employee Management',
-            imageSrc: "/img/projects/project-1.png",
+            imageSrc: "/img/projects/project-3.png",
             url: 'https://github.com/jdl212/Employee-test.js'
         },
         {
             id: 4,
             title: 'Reverse Engineering UNIT 14',
             description: 'Reverse Engineering UNIT 14',
-            imageSrc: "/img/projects/project-1.png",
+            imageSrc: "/img/projects/project-4.png",
             url: 'https://github.com/jdl212/reverseEngineeringCode'
         },
         {
             id: 5,
             title: 'Github Portfolio',
             description: 'Github Portfolio',
-            imageSrc: "/img/projects/project-1.png",
+            imageSrc: "/img/projects/project-5.png",
             url: 'https://github.com/jdl212/student-bio'
         },
 
